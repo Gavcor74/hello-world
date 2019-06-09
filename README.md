@@ -1,2 +1,3 @@
 # hello-world
 Just Starting with JS
+Hi there, just learning how to post codings and getting the hang of this...
